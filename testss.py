@@ -29,3 +29,4 @@ for city in cities:
 
 # Đóng kết nối
 conn.close()
+from django.utils.translation import ungettext
